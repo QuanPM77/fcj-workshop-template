@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 05/01/2026 đến ngày 18/04/2026
 
-![Ảnh đại diện của bạn](images/avatar2.png)
+<img src="/fcj-workshop-template/images/avatar2.png" alt="Ảnh đại diện của bạn" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 20px;" />
 
 
 
