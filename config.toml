@@ -1,5 +1,5 @@
 baseURL = "https://quanpm77.github.io/fcj-workshop-template/"
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = false
 defaultContentLanguage = "en"
 
