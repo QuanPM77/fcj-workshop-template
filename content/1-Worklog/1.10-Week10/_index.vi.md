@@ -5,13 +5,13 @@ weight: 2
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
-### 🎯 TUẦN 10: TỰ ĐỘNG MỞ RỘNG KIẾN TRÚC (AUTO SCALING)
+###  TUẦN 10: TỰ ĐỘNG MỞ RỘNG KIẾN TRÚC (AUTO SCALING)
 
 **Mục tiêu:** _Tự động điều chỉnh số lượng máy chủ dựa trên nhu cầu thực tế của người dùng._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

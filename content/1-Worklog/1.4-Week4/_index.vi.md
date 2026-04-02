@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-### 🎯 TUẦN 4: NỀN TẢNG MẠNG VÀ VPC (PHẦN 2: CÁCH LY VÀ BẢO MẬT)
+###  TUẦN 4: NỀN TẢNG MẠNG VÀ VPC (PHẦN 2: CÁCH LY VÀ BẢO MẬT)
 
 **Mục tiêu:** _Thiết lập vùng mạng riêng tư và cơ chế kiểm soát lưu lượng chuyên sâu._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

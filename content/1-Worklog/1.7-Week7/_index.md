@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
-### 🎯 Week 7: RELATIONAL DATABASE (AMAZON RDS) - PART 1
+###  Week 7: RELATIONAL DATABASE (AMAZON RDS) - PART 1
 
 **Objective:** _Deploy and connect a relational database management system in the cloud environment._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

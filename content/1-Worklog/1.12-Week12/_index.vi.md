@@ -5,13 +5,13 @@ weight: 2
 chapter: false
 pre: " <b> 1.12 </b> "
 ---
-### 🎯 TUẦN 12: TỔNG KẾT KIẾN TRÚC VÀ TỐI ƯU HÓA CUỐI KỲ
+###  TUẦN 12: TỔNG KẾT KIẾN TRÚC VÀ TỐI ƯU HÓA CUỐI KỲ
 
 **Mục tiêu:** _Đánh giá lại toàn bộ hệ thống theo tiêu chuẩn chuyên nghiệp và dọn dẹp tài nguyên._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-### 🎯 TUẦN 8: RDS NÂNG CAO VÀ SAO LƯU HỆ THỐNG
+###  TUẦN 8: RDS NÂNG CAO VÀ SAO LƯU HỆ THỐNG
 
 **Mục tiêu:** _Nâng cao tính sẵn sàng và thiết lập quy trình bảo vệ dữ liệu cho doanh nghiệp._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

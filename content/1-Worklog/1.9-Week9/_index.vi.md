@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
-### 🎯 TUẦN 9: CÂN BẰNG TẢI (ELB) VÀ PHÂN PHỐI LƯU LƯỢNG
+###  TUẦN 9: CÂN BẰNG TẢI (ELB) VÀ PHÂN PHỐI LƯU LƯỢNG
 
 **Mục tiêu:** _Xây dựng hệ thống có khả năng phân phối tải thông minh tới nhiều máy chủ._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

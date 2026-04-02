@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-### 🎯 TUẦN 1: TIẾP CẬN VĂN HÓA VÀ THIẾT LẬP QUẢN TRỊ CHI PHÍ
+###  TUẦN 1: TIẾP CẬN VĂN HÓA VÀ THIẾT LẬP QUẢN TRỊ CHI PHÍ
 
 **Mục tiêu:** _Hòa nhập môi trường làm việc và xây dựng hàng rào bảo mật tài chính cho tài khoản AWS._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

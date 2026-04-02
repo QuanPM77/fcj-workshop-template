@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-### 🎯 TUẦN 3: NỀN TẢNG MẠNG VÀ VPC (PHẦN 1: KHỞI TẠO HẠ TẦNG)
+###  TUẦN 3: NỀN TẢNG MẠNG VÀ VPC (PHẦN 1: KHỞI TẠO HẠ TẦNG)
 
 **Mục tiêu:** _Xây dựng khung xương cho mạng riêng ảo và các Subnet công cộng._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

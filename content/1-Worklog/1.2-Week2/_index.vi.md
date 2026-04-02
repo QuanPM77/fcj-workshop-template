@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-### 🎯 TUẦN 2: QUẢN LÝ ĐỊNH DANH (IAM) VÀ BẢO MẬT ĐẦU VÀO
+###  TUẦN 2: QUẢN LÝ ĐỊNH DANH (IAM) VÀ BẢO MẬT ĐẦU VÀO
 
 **Mục tiêu:** _Thực thi các tiêu chuẩn bảo mật cho người dùng và phân quyền truy cập hệ thống._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

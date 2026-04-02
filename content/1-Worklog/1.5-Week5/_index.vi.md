@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-### 🎯 TUẦN 5: DỊCH VỤ LƯU TRỮ ĐỐI TƯỢNG (AMAZON S3)
+###  TUẦN 5: DỊCH VỤ LƯU TRỮ ĐỐI TƯỢNG (AMAZON S3)
 
 **Mục tiêu:** _Quản lý dữ liệu không cấu trúc và tối ưu hóa chi phí lưu trữ dài hạn._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

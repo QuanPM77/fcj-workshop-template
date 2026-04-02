@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-### 🎯 TUẦN 6: ĐIỆN TOÁN ĐÁM MÂY VÀ LƯU TRỮ KHỐI (EC2 & EBS)
+###  TUẦN 6: ĐIỆN TOÁN ĐÁM MÂY VÀ LƯU TRỮ KHỐI (EC2 & EBS)
 
 **Mục tiêu:** _Triển khai và vận hành máy chủ ảo với cơ chế sao lưu dữ liệu bền vững._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

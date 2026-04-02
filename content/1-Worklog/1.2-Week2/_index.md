@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.2. </b> "
 ---
-### 🎯 Week 2: IDENTITY MANAGEMENT (IAM) AND SECURITY
+###  Week 2: IDENTITY MANAGEMENT (IAM) AND SECURITY
 
 **Objective:** _Implement security standards for users and delegate system access._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

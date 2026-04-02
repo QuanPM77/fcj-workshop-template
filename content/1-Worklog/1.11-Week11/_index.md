@@ -5,13 +5,13 @@ weight: 2
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-### 🎯 Week 11: MONITORING AND PERFORMANCE MANAGEMENT (CLOUDWATCH)
+###  Week 11: MONITORING AND PERFORMANCE MANAGEMENT (CLOUDWATCH)
 
 **Objective:** _Comprehensively observe system operations and set up automated incident response._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

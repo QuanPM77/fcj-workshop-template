@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-### 🎯 Week 8: ADVANCED RDS AND SYSTEM BACKUP
+###  Week 8: ADVANCED RDS AND SYSTEM BACKUP
 
 **Objective:** _Enhance high availability and establish data protection workflows for the business._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.9. </b> "
 ---
-### 🎯 Week 9: ELASTIC LOAD BALANCING (ELB) AND TRAFFIC DISTRIBUTION
+###  Week 9: ELASTIC LOAD BALANCING (ELB) AND TRAFFIC DISTRIBUTION
 
 **Objective:** _Build a system capable of intelligently distributing traffic to multiple servers._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

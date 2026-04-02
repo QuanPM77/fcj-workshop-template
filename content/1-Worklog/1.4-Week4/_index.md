@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.4. </b> "
 ---
-### 🎯 Week 4: NETWORK FOUNDATION AND VPC (PART 2: ISOLATION AND SECURITY)
+###  Week 4: NETWORK FOUNDATION AND VPC (PART 2: ISOLATION AND SECURITY)
 
 **Objective:** _Establish a private network zone and deep traffic control mechanisms._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

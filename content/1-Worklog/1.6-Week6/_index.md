@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.6. </b> "
 ---
-### 🎯 Week 6: CLOUD COMPUTING AND BLOCK STORAGE (EC2 & EBS)
+###  Week 6: CLOUD COMPUTING AND BLOCK STORAGE (EC2 & EBS)
 
 **Objective:** _Deploy and operate virtual servers with a durable data backup mechanism._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

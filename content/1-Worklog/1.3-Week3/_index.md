@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
-### 🎯 Week 3: NETWORK FOUNDATION AND VPC (PART 1: INFRASTRUCTURE INITIALIZATION)
+###  Week 3: NETWORK FOUNDATION AND VPC (PART 1: INFRASTRUCTURE INITIALIZATION)
 
 **Objective:** _Build the backbone for the virtual private cloud and public subnets._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

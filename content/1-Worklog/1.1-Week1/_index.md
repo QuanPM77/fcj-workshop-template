@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-### 🎯 Week 1: CULTURE ONBOARDING AND COST MANAGEMENT SETUP
+###  Week 1: CULTURE ONBOARDING AND COST MANAGEMENT SETUP
 
 **Objective:** _Onboard into the work environment and build a financial security barrier for the AWS account._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
-### 🎯 TUẦN 7: CƠ SỞ DỮ LIỆU QUAN HỆ (AMAZON RDS) - PHẦN 1
+###  TUẦN 7: CƠ SỞ DỮ LIỆU QUAN HỆ (AMAZON RDS) - PHẦN 1
 
 **Mục tiêu:** _Triển khai và kết nối hệ quản trị cơ sở dữ liệu trên môi trường đám mây._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

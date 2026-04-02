@@ -5,13 +5,13 @@ weight: 2
 chapter: false
 pre: " <b> 1.11. </b> "
 ---
-### 🎯 TUẦN 11: GIÁM SÁT VÀ QUẢN TRỊ HIỆU NĂNG (CLOUDWATCH)
+###  TUẦN 11: GIÁM SÁT VÀ QUẢN TRỊ HIỆU NĂNG (CLOUDWATCH)
 
 **Mục tiêu:** _Quan sát toàn diện hoạt động của hệ thống và thiết lập cơ chế phản ứng sự cố tự động._
 
 ---
 
-#### 📅 Lịch trình chi tiết
+####  Lịch trình chi tiết
 
 | Ngày trong tuần | Đầu tư | Nội dung công việc | Trạng thái |
 | :---: | :---: | :--- | :---: |

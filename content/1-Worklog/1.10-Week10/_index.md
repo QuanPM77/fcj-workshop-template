@@ -5,13 +5,13 @@ weight: 2
 chapter: false
 pre: " <b> 1.10. </b> "
 ---
-### 🎯 Week 10: AUTO SCALING ARCHITECTURE
+###  Week 10: AUTO SCALING ARCHITECTURE
 
 **Objective:** _Automatically adjust the number of servers based on actual user demand._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |

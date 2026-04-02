@@ -5,13 +5,13 @@ weight: 1
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-### 🎯 Week 5: OBJECT STORAGE SERVICE (AMAZON S3)
+###  Week 5: OBJECT STORAGE SERVICE (AMAZON S3)
 
 **Objective:** _Manage unstructured data and optimize long-term storage costs._
 
 ---
 
-#### 📅 Detailed Schedule
+####  Detailed Schedule
 
 | Day of Week | Time Info | Task Description | Status |
 | :---: | :---: | :--- | :---: |
