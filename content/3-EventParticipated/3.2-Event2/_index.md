@@ -78,7 +78,5 @@ pre: " <b> 3.2. </b> "
 #### Expanding Professional Connections
 - Open Q&A sessions and designated networking breaks offered substantive opportunities to engage with speakers and peers, gain insights from real-world deployment experience, and receive actionable advice relevant to ongoing work in Cloud system development.
 
-#### Event Photos
-*Add your event photos here*
 
 > In summary, this workshop provided a comprehensive view of where the industry is heading in terms of AI-augmented development and cloud-native architecture. The knowledge and connections gained have directly informed how I approach both technical problem-solving and professional development during my internship.

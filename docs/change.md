@@ -1,109 +1,26 @@
+1. Working Environment The working environment is truly professional, especially for a student like me. Being able to meet every day at the office boosts our team’s sense of responsibility and enthusiasm. The surrounding greenery and scenery provide a nice space to take brief mental breaks. However, I hope there will be more opportunities to interact and connect with the mentor team. Although we see each other daily at the office, it usually stops at simple greetings, and I would love to build closer relationships and learn more directly from them.
 
-*Thay đổi Event Participated 
+2. Support from Mentor / Team Admin The mentors are incredibly enthusiastic. They walk around daily to check on the teams, offer support, and occasionally bring afternoon snacks to re-energize us. Additionally, they are always available to help with issues even when we are working from home.
 
-***Trang chính EventParicipated
+3. Learning & Skill Development Opportunities During my internship, I learned a immense amount. I gained core AWS knowledge, understood its services and benefits, and learned professional etiquette and modern study methods. The company frequently hosts events that broadened my perspective and expanded my professional network. I have discovered various career paths within the industry and am gradually clarifying my own future direction.
 
-Event 1
- Event Name: AWS re:Invent Recap HCMC 2026
+4. Company Culture & Team Spirit Everyone—from the senior staff and mentors to fellow FCAJ participants—is highly dedicated and willing to share knowledge when asked. Despite the necessary discipline in the workspace, everyone is very cheerful and friendly with each other after hours.
 
- Date: January 29, 2026
+5. Internship Policies / Benefits
 
- Location: Bitexco Financial Tower, District 1, Ho Chi Minh City
-
- Role: Intern (AWS First Cloud Journey Internship) / Attendee
-
-Event 2
- Event Name: GenAI-powered App-DB Modernization workshop
-
- Date & Time: 09:00, August 13, 2025
-
- Location: 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
-
-**** Trang phụ 4.1-Event 1:
-Event 1
-Summary Report “AWS re:Invent Recap HCMC 2026”
-Event Objectives
-Tech Updates: Capturing the latest announcements from global AWS re:Invent, specifically the Nova model series, Amazon Bedrock, and MLOps infrastructure.
-Solution Optimization: Exploring the implementation of Vector Databases and Multimodal Retrieval to solve complex data challenges.
-Local Engagement: Direct networking with AWS experts regarding application modernization and the new Vietnam DirectConnect POP infrastructure.
-Speakers
-Prapti Gupta - AWS Speaker & Expert (Led the session on Vector Database on S3).
-Solutions Architects from AWS Vietnam.
-Key Highlights
-Modern Data Platform and Analytics
-Keynotes on ML/AI & Innovation: AWS’s strategic vision for driving innovation through the power of data and AI.
-Vector Database on Amazon S3: Method for storing and managing data vectors directly on S3, optimizing cost and scale for AI applications.
-Natural Query Language in OpenSearch: Using natural language to query data, bridging the gap between users and complex data systems.
-Generative AI Ecosystem and MLOps Infrastructure
-Upgrading GenAI Applications: Leveraging the latest features of the Nova model family and Amazon Bedrock to create smarter applications.
-Resource Management via MCP: Mechanism for efficient interaction and coordination of AWS resources through the Model Control Plane (MCP).
-Multimodal Retrieval: A breakthrough in Bedrock Knowledge Bases, allowing search and synthesis across various data types (images, text, tables).
-Large-scale MLOps Infrastructure: Professional workflows for training and deploying machine learning models on the Amazon SageMaker AI platform.
-Key Takeaways
-Professional Knowledge
-Architecture Flow: Understood the processing flow from storage (S3) and querying (OpenSearch) to training and execution (SageMaker/Bedrock).
-Power of Multimodal: How to combine information from multiple data formats to enhance AI accuracy.
-Systems Thinking
-Realized that AI technology is not just about models, but also the entire ecosystem of infrastructure and governance (MLOps) to ensure scalability.
-Applying to Work
-SmartInvoice Shield Project:
-Apply Multimodal Retrieval to handle complex input invoices (blurry photos, structured PDFs).
-Replace or supplement relational databases with Vector Databases to accelerate cross-referencing and intelligent search.
-Build standard MLOps workflows to manage OCR model versions more effectively.
-Event Experience
-Attending the event at the Bitexco office was a professional and inspiring experience:
-
-Directly listened to the passionate sharing by speakers about optimal storage solutions.
-Valuable networking opportunities with the Cloud & AI engineering community in Vietnam.
-Lessons Learned
-Understanding the architecture flow is more important than just knowing how to use individual services.
-Cost optimization from the design phase (such as using S3 for Vector DB) is a survival factor for large-scale Cloud projects.
-Networking is not just for connecting, but also for validating one’s own technical assumptions through the experience of others.
-
-**** Trang phụ 4.2-Event 2:
-
-Event 2
-Summary Report: Platform Engineering & GenAIOps
-EVENT OBJECTIVES
-Explore the role of Platform Engineering in the modern Cloud ecosystem and career path orientation.
-Grasp the core principles of GenAIOps and DevOps specifically for Generative AI applications.
-Learn about new tools and strategies for efficient code deployment in the AI Agent Era (Agentic Era).
-Learn how to build production-ready Multimodal GenAI solutions on AWS.
-LIST OF SPEAKERS
-Hải Bùi – Engineering Manager, GoTymeX
-Phúc Đặng – Cloud Architect, GoTymeX
-Pháp Nguyễn – Cloud Engineer, VPBank
-Phát Phạm – Software Engineer, Katalon
-Nghi Danh – AI Engineer, Renova Cloud
-Phong Nguyễn – Senior Software Engineer, Sympli
-Thịnh Nguyễn – DevOps Engineer, FCAJ
-KEY HIGHLIGHTS
-Building Modern Platform Engineering & Career Orientation
-Introduction to Platform Engineering and its indispensable role in the DevOps ecosystem.
-Understanding corporate culture, internship opportunities, and participating in live Q&A sessions with industry experts.
-GenAIOps Essential - DevOps for GenAI Applications
-Foundational principles of DevOps on AWS and learning materials.
-Practical examples of GenAIOps for AWS projects using Bedrock AgentCore Observability, EKS, and Langfuse.
-Code Deployment in the Agentic Era
-Analysis of current programming issues and introduction of new supporting tools.
-Deep dive into the Productivity Playbook and live demos of how AI assists in writing code.
-Production-ready Multimodal GenAI on AWS
-Introduction to the New AI Application Stack.
-Multimodal Search with Nova Embeddings.
-Using GraphRAG for corporate knowledge management and designing Multi-Agent Workflows.
-Methods for ensuring safety and observability for GenAI systems.
-LESSONS LEARNED
-Technical Thinking: Platform engineering is the foundation for scaling on the Cloud. The shift to the “Agentic Era” requires a complete change in how code is written, reviewed, and deployed, relying heavily on AI tools to increase productivity.
-System Architecture: Bringing AI from the lab to the real world (production) requires GenAIOps. Combining Nova Embeddings, GraphRAG, and Multi-Agent workflows provides a flexible and powerful architecture for handling complex business data.
-PRACTICAL APPLICATION
-Upgrading the SmartInvoice Shield Project
-Integrating Multimodal Search with Nova Embeddings: Improving the ability to extract and cross-verify data from complex invoice formats (such as blurry photos or text-heavy PDF files).
-Implementing Multi-Agent Workflows: Applying the AI Agent concept (like the OpenClaw model) to handle each step independently in the invoice flow—for example: one agent specialized in reading OCR, one agent specialized in cross-verification and fraud detection.
-Applying GenAIOps: Using Bedrock AgentCore Observability and Langfuse to monitor the performance and accuracy of underlying AI models, ensuring stable system operation.
-EVENT EXPERIENCE
-Learning from Multi-disciplinary Experts: Listening to practical sharing from engineers from GoTymeX, VPBank, and Katalon provides a multi-dimensional perspective on how to apply Cloud and AI in different fields.
-Accessing Practical Architecture: Demo sessions on Multimodal GenAI architecture help bridge the gap between calling basic APIs and building a truly enterprise-grade AI system.
-Expanding Connections: Open Q&A sessions and breaks were great opportunities to interact, learn from real-world experience, and receive helpful advice for the current Cloud system development internship journey.
+The company provides learning materials and dedicated study areas for each participating team.
+Clear rules and guidelines are in place to help newcomers adapt smoothly.
+There is a separate, well-equipped pantry/dining area.
+Frequent events focusing on Cloud and AWS services significantly enhance everyone’s knowledge.
+There is constant support and consultation available for studying and project execution.
+Feedback
+What did you find most satisfying during your internship? My greatest satisfaction comes from the professional working environment and the hands-on experience with AWS services. The warm care and afternoon snacks from the mentors also made me feel highly valued and welcomed.
+What do you think the company should improve for future interns? As mentioned, I hope the program can facilitate more official networking activities or spaces between interns and the mentoring team. Breaking the ice beyond daily greetings would encourage us to be more confident in seeking advice.
+If recommending to a friend, would you suggest they intern here? Why or why not? Absolutely. This program is an outstanding “launchpad” for students who want to step beyond academic theory, experience real corporate culture, and clearly define their career path.
+Suggestions & Expectations
+Suggestions to improve the internship experience: The program could organize weekly small-group “Teatalks” or sharing sessions where members can comfortably discuss project hurdles with the mentors.
+Desire to continue: I strongly wish to continue my journey with FCAJ in the future. I hope to engage in more advanced projects to further hone my skills and pursue my higher goal.
+A Note of Gratitude: I would like to express my deepest gratitude to all the mentors and the admin team. Thank you for your unwavering support, care, and dedication in creating such an invaluable learning environment for us. This FCAJ journey has been truly amazing!
 
 
 

@@ -22,7 +22,7 @@ Trong quá trình thực tập, tôi có cơ hội tham gia hai sự kiện chuy
 ### [Event 2](4.2-Event2/)
 &emsp;**Tên sự kiện:** Workshop Platform Engineering & GenAIOps
 
-&emsp;**Thời gian:** 09:00 ngày 13/08/2025
+&emsp;**Thời gian:** Ngày 21/03/2026
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 

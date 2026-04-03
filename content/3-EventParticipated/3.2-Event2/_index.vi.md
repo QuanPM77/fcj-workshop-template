@@ -78,7 +78,5 @@ pre: " <b> 3.2. </b> "
 #### Mở Rộng Kết Nối Chuyên Môn
 - Các phiên Q&A mở và thời gian nghỉ giải lao tạo cơ hội thực chất để trao đổi với diễn giả và đồng nghiệp, tiếp thu kinh nghiệm từ các triển khai thực tế và nhận những lời khuyên thiết thực liên quan đến công việc phát triển hệ thống Cloud đang thực hiện.
 
-#### Hình Ảnh Sự Kiện
-*Thêm hình ảnh tại sự kiện của bạn vào đây*
 
 > Nhìn chung, workshop này cung cấp một cái nhìn toàn diện về hướng phát triển của ngành trong lĩnh vực phát triển phần mềm có hỗ trợ AI và kiến trúc cloud-native. Kiến thức và các mối kết nối thu được đã trực tiếp định hình cách tôi tiếp cận bài toán kỹ thuật cũng như phát triển chuyên môn trong suốt quá trình thực tập.

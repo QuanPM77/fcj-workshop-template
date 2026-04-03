@@ -72,6 +72,16 @@ Attending the AWS re:Invent Recap at the Bitexco Financial Tower was both a prof
 - **Professional networking as a learning tool**: Engaging with peers and experts is not merely a social activity, but an effective mechanism for stress-testing one's own technical understanding against real-world experience.
 
 #### Event Photos
-*Add your event photos here*
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/fcj-workshop-template/images/Event1/Even1.jfif" alt="Sneak peek at the event" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; color: #555;">Sneak peek at the event</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/fcj-workshop-template/images/Event1/Event1(2).jfif" alt="Overview of the event" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; color: #555;">Overview of the event</p>
+  </div>
+</div>
 
 > Overall, this event reinforced the importance of staying current with the rapidly evolving AWS ecosystem and provided a structured framework for applying cutting-edge AI and data platform technologies to real-world engineering challenges.

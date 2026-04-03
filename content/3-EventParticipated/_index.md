@@ -22,7 +22,7 @@ During my internship, I had the opportunity to attend two professional events or
 ### [Event 2](4.2-Event2/)
 &emsp;**Event Name:** Platform Engineering & GenAIOps Workshop
 
-&emsp;**Date:** August 13, 2025
+&emsp;**Date:** March 21, 2026
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 

@@ -74,6 +74,16 @@ Tham dự AWS re:Invent Recap tại Tòa nhà Bitexco Financial Tower là một 
 - **Networking chuyên nghiệp như một công cụ học tập**: Trao đổi với đồng nghiệp và chuyên gia không chỉ là hoạt động xã hội, mà còn là cơ chế hiệu quả để kiểm tra và củng cố hiểu biết kỹ thuật của bản thân qua kinh nghiệm thực tế của người khác.
 
 #### Hình Ảnh Sự Kiện
-*Thêm hình ảnh tại sự kiện của bạn vào đây*
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="/fcj-workshop-template/images/Event1/Even1.jfif" alt="Sneak peek at the event" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; color: #555;">Sneak peek at the event</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/fcj-workshop-template/images/Event1/Event1(2).jfif" alt="Overview of the event" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-style: italic; color: #555;">Toàn cảnh sự kiện</p>
+  </div>
+</div>
 
 > Nhìn chung, sự kiện này củng cố tầm quan trọng của việc cập nhật liên tục với hệ sinh thái AWS đang phát triển nhanh chóng, đồng thời cung cấp một khung tư duy có cấu trúc để áp dụng các công nghệ AI và nền tảng dữ liệu tiên tiến vào các thách thức kỹ thuật thực tế.
